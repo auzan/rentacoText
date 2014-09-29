@@ -4,5 +4,9 @@ public class Revision{
 	public void Revision(numRevision){
 	numRevision = this.numRevision;
 	}
+
+	public getNumero(){
+		return numRevision;
+	}
 }
 
