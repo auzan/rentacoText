@@ -1,2 +1,4 @@
-public class Revision{}
+public class Revision{
+private int numRevision;
+}
 
